@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.class
+build/
+
+# IDE files (IntelliJ)
+.idea/
+nbproject/
+*.iml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
