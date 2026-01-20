@@ -1,11 +1,15 @@
-# Ignore compiled files
-*.class
+# Compiled / build output
+out/
+dist/
 build/
+target/
 
-# IDE files (IntelliJ)
+# IntelliJ IDEA
 .idea/
-nbproject/
 *.iml
+*.iws
+
+# Logs
 *.log
 
 # OS files
